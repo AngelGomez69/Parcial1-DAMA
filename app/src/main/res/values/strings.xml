@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ReproductorParcial1</string>
+    <string name="separacion">__________________________________</string>
+    <string name="tituloCancion1">Xavi, Tony Aguirre - Modo DND</string>
+    <string name="tituloCancion2">Tornillo - Nena Ven</string>
+    <string name="tituloCancion3">Eminem - The Real Slim Shady</string>
+    <string name="tituloCancion4">Canserbero - Epico</string>
+    <string name="tituloCancion5">Santa Grifa - Tocame</string>
+</resources>
